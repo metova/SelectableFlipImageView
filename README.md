@@ -7,4 +7,4 @@ See the demo included for usage information.
 ![Demo](/demo_anim.gif?raw=true "Demo")
 
 # Installation
-Just import that module folder (SelectableFlipImageView folder)
+Just import the module folder (SelectableFlipImageView folder)
