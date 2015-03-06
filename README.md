@@ -8,3 +8,6 @@ See the demo included for usage information.
 
 # Installation
 Just import the module folder (SelectableFlipImageView folder)
+
+
+Let me clean that up for you.  ┬──┬ ノ( ゜-゜ノ)
