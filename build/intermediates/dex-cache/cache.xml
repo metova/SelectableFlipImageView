@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/workspace/SelectableFlipImageViewExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/workspace/SelectableFlipImageViewExample/app/build/intermediates/pre-dexed/debug/classes-d05ee9fbc6b0c3f9d5fe7df738fbc29d03d487a3.jar" />
+    </item>
+    <item
+        jar="/Users/zacharyhensley/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/workspace/SelectableFlipImageViewExample/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-96516b0fb2cb451661b59c067bd3d5edc47c6ec8.jar" />
+    </item>
+    <item
+        jar="/workspace/SelectableFlipImageViewExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/workspace/SelectableFlipImageViewExample/app/build/intermediates/pre-dexed/debug/classes-21bd54c3cc570863b611f656b41b5da1a8a0230f.jar" />
+    </item>
+    <item
+        jar="/workspace/SelectableFlipImageViewExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/workspace/SelectableFlipImageViewExample/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a270527986099d30b7a02f9a2d630de6a6ff0c68.jar" />
+    </item>
+    <item
+        jar="/Users/zacharyhensley/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/workspace/SelectableFlipImageViewExample/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-a31b6096a30e7764ae091284c1714f06d0fcee2f.jar" />
+    </item>
+    <item
+        jar="/workspace/SelectableFlipImageViewExample/app/build/intermediates/exploded-aar/SelectableFlipImageViewExample/selectableflipimageview/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c358f2c0fa4c006f297796ac98a6d50ff04097a9">
+        <dex dex="/workspace/SelectableFlipImageViewExample/app/build/intermediates/pre-dexed/debug/classes-3d998883f11265366ba8d09c4380b1d7002f94c3.jar" />
+    </item>
+
+</items>
